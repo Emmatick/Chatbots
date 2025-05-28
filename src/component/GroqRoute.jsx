@@ -1,6 +1,5 @@
 import { ReactResponse } from "react";
-import Groq from "groq-sdk";
-const groq = new Groq({ apiKey: process.env.REACT_APP_GROQ_API_KEY });
+//import Groq from "groq-sdk";
 
 export async function POST(request) {
   try {

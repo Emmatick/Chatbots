@@ -1,0 +1,1 @@
+export const REACT_APP_GROQ_API_KEY= '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';
